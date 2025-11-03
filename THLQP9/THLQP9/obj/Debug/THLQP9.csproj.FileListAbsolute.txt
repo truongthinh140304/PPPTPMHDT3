@@ -1,0 +1,11 @@
+D:\PPPTPMHDT2\THLQP9\THLQP9\bin\Debug\Database1.mdf
+D:\PPPTPMHDT2\THLQP9\THLQP9\bin\Debug\Database1_log.ldf
+D:\PPPTPMHDT2\THLQP9\THLQP9\bin\Debug\THLQP9.exe.config
+D:\PPPTPMHDT2\THLQP9\THLQP9\bin\Debug\THLQP9.exe
+D:\PPPTPMHDT2\THLQP9\THLQP9\bin\Debug\THLQP9.pdb
+D:\PPPTPMHDT2\THLQP9\THLQP9\obj\Debug\THLQP9.csproj.AssemblyReference.cache
+D:\PPPTPMHDT2\THLQP9\THLQP9\obj\Debug\THLQP9.Properties.Resources.resources
+D:\PPPTPMHDT2\THLQP9\THLQP9\obj\Debug\THLQP9.csproj.GenerateResource.cache
+D:\PPPTPMHDT2\THLQP9\THLQP9\obj\Debug\THLQP9.csproj.CoreCompileInputs.cache
+D:\PPPTPMHDT2\THLQP9\THLQP9\obj\Debug\THLQP9.exe
+D:\PPPTPMHDT2\THLQP9\THLQP9\obj\Debug\THLQP9.pdb
