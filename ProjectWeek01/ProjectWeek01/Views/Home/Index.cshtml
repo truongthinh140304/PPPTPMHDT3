@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="text-center">
+    <h2>This is Index View of Home Controller with Action Index</h2>
+    <img src="~/images/MVC.jpg" class="img-fluid" alt="MVC Diagram" style="max-width:600px" />
+</div>
+
+<!-- Gọi Partial View bằng chuẩn Razor MVC8 -->
+<partial name="DashboardContent"/>
